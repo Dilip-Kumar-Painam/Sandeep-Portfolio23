@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c564337.css",
+    "main.js": "/static/js/main.385c65de.js",
+    "static/media/family.jpg": "/static/media/family.65cbd92a63d7172f7272.jpg",
+    "static/media/sid.jpg": "/static/media/sid.738ff1fd0555afc1844e.jpg",
+    "static/media/sind.jpg": "/static/media/sind.c67d53ed8602b7b3b31c.jpg",
+    "static/media/sisi6.jpg": "/static/media/sisi6.09a97824329c510eacac.jpg",
+    "static/media/sisi1.jpg": "/static/media/sisi1.643f5dbdb308924d1719.jpg",
+    "static/media/sisi5.jpg": "/static/media/sisi5.2b1edaecd00267c6bf09.jpg",
+    "static/media/sisi4.jpg": "/static/media/sisi4.1964038df1430cb1f622.jpg",
+    "static/media/sisi3.jpg": "/static/media/sisi3.38c04c25e8ddc918884f.jpg",
+    "static/media/sisi.jpg": "/static/media/sisi.379cd04035e65002740a.jpg",
+    "static/media/sisi2.jpg": "/static/media/sisi2.711a453eb924048bc75d.jpg",
+    "static/media/sasi.jfif": "/static/media/sasi.d88e101407d5d05119b0.jfif",
+    "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/awards.jpg": "/static/media/awards.f64571edddaffa097261.jpg",
+    "static/media/phone.png": "/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/index.html",
+    "main.1c564337.css.map": "/static/css/main.1c564337.css.map",
+    "main.385c65de.js.map": "/static/js/main.385c65de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c564337.css",
+    "static/js/main.385c65de.js"
+  ]
+}
